@@ -1,0 +1,27 @@
+                            ╔════════════════════╗
+                            ║     Historique     ║
+╔═══════════════════════════╩════════════════════╩═══════════════════════════════════╗
+║                                                                                    ║
+║   ╔═══════════════════════════════════════════════════════════════════════════╗    ║       
+║   ║              Actions récentes sur la piste de l'aéroport                  ║    ║
+║   ╠═══════════════════════════════════════════════════════════════════════════╣    ║    
+║   ║ 16h12 :  L'avion Boieng56_12xC4 de la compagnie Air France a atteri avec  ║    ║
+║   ║          42% de carburant                                                 ║    ║ 
+║   ║                                                                           ║    ║
+║   ║ 16h33 : L'avion Boieng52_93Hk8 de la compagnie Caraib Airlines a décollé  ║    ║ 
+║   ║         et possède actuellement 84% de carburant                          ║    ║  
+║   ║                                                                           ║    ║ 
+║   ║ 16h48 : L'avion Boieng34_Th07x de la compagnie Air FRance a décol         ║    ║ 
+║   ║         possède actuellement 62% de carburant                             ║    ║ 
+║   ║                                                                           ║    ║ 
+║   ║ 17h02 : L'avion Boieng7_Z72gd0 de Caraib Airlines a atteri et posséde 55% ║    ║ 
+║   ║         de carburant                                                      ║    ║
+║   ║                                                                           ║    ║
+║   ║ 17h32 : Vous avez supprimé l'avion Boieng7_Z72gd0 de la compagnie Caraib  ║    ║
+║   ║         Airlines de la liste d'atterissage pour cause météorologique      ║    ║
+║   ║                                                                           ║    ║
+║   ║ 17h56 : Vous avez ajouté l'avion Boieng528_FvJ7 de la compagnie Air France║    ║
+║   ║         à la liste de décollage                                           ║    ║
+║   ╚═══════════════════════════════════════════════════════════════════════════╝    ║    
+║                                                                                    ║
+╚════════════════════════════════════════════════════════════════════════════════════╝
